@@ -59,6 +59,4 @@ For Java:
 javac FileName.java
 java FileName
 
-For Python:
 
-python filename.py
